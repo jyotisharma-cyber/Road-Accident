@@ -5,6 +5,6 @@
 ---
 ## Road Accident Dashboard Screenshot
 
-![Road Accident Dashboard]((https://github.com/jyotisharma-cyber/Road-Accident/blob/main/Capture.PNG))
+![Road Accident Dashboard]([https://github.com/jyotisharma-cyber/Road-Accident/blob/main/Capture.PNG])
 
 ---
