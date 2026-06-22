@@ -5,7 +5,7 @@
 ---
 ## Road Accident Dashboard Screenshot
 
-![Road-Accident](RoadAccident.PNG)
+![Road-Accident](Road-Accident.PNG)
 
 ---
 
