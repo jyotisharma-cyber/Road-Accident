@@ -179,6 +179,3 @@ Road-Accident-Dashboard/
 
 ###  If you found this project helpful, please consider giving it a star.
 
----
-
-⭐ If you found this project useful, don't forget to star the repository!
